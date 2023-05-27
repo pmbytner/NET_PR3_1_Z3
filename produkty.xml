@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Kategorie>
+  <Kategoria Nazwa="Owoce">
+    <Opis>No owoce</Opis>
+    <Produkty>
+      <Produkt>
+        <Nazwa>Jabłko</Nazwa>
+        <KrajPochodzenia>Polska</KrajPochodzenia>
+        <Cena>4</Cena>
+      </Produkt>
+      <Produkt>
+        <Nazwa>Gruszka</Nazwa>
+        <KrajPochodzenia>Polska</KrajPochodzenia>
+        <Cena>5</Cena>
+      </Produkt>
+      <Produkt>
+        <Nazwa>Pomarańcza</Nazwa>
+        <KrajPochodzenia>Hiszpania</KrajPochodzenia>
+        <Cena>7</Cena>
+      </Produkt>
+    </Produkty>
+  </Kategoria>
+  <Kategoria Nazwa="Warzywa">
+    <Opis>Jakiś opis kategorii warzyw</Opis>
+    <Produkty>
+      <Produkt>
+        <Nazwa>Marchew</Nazwa>
+        <KrajPochodzenia>Polska</KrajPochodzenia>
+        <Cena>4</Cena>
+      </Produkt>
+      <Produkt>
+        <Nazwa>Ziemniak</Nazwa>
+        <KrajPochodzenia>Polska</KrajPochodzenia>
+        <Cena>3</Cena>
+      </Produkt>
+      <Produkt>
+        <Nazwa>Bakłażan</Nazwa>
+        <KrajPochodzenia>Hiszpania</KrajPochodzenia>
+        <Cena>12</Cena>
+      </Produkt>
+    </Produkty>
+  </Kategoria>
+</Kategorie>
